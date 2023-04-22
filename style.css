@@ -1,0 +1,19 @@
+.text.red {
+    color: red;
+}
+
+label {
+    text-transform: capitalize;
+    color: rgb(138, 53, 50);
+}
+body{
+    background-image: url("https://images.unsplash.com/photo-1681325655883-14885bd9cd93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80");
+    background-repeat: no-repeat;
+    background-size: 1500px 1020px;
+    
+}
+/* p.pa{
+    padding: 100px;
+   background-color: #ac1919;
+
+} */
